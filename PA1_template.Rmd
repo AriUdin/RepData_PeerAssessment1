@@ -9,7 +9,6 @@ output:
 knitr::opts_chunk$set(echo = TRUE)
 library(chron)
 library(lattice)
-fig.path = "images/"
 ```
 
 ## Loading and preprocessing the data
